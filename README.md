@@ -1,9 +1,9 @@
 #YouTube Link
-[Theo Modern React](https://www.youtube.com/watch?v=d5x0JCZbAJs)
+[Theo Modern React](https://youtu.be/d5x0JCZbAJs?si=WyS8ks09xFYSD3AV&t=526)
 
 #To Do
 
-- [ ] Make it deploy
+- [x] Make it deploy
 - [ ] Scaffold basic ui with mock data
 - [ ] Actually setup a database
 - [ ] Connect the database to the front end
