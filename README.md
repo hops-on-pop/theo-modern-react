@@ -11,6 +11,6 @@
 - [ ] Add image upload
 - [ ] Error management (Sentry)
 - [ ] Routing/image page
-- [ ] Delet button
+- [ ] Delete button
 - [ ] Analytics
 - [ ] Rate limiting
